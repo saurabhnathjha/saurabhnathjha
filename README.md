@@ -14,7 +14,7 @@ and software engineering fundamentals.
 
 ## Professional Experience
 
-### Cloud Full Stack Developer-1 — Nexturn
+### Cloud Full Stack Developer-1 — Nexturn India Private Limited
 
 Working primarily on .NET-based applications and backend development.
 
