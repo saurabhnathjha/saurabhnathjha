@@ -112,5 +112,5 @@ hands-on projects.
 ## Connect With Me
 
 - LinkedIn — https://www.linkedin.com/in/saurabhnathjha
-- Portfolio — Coming Soon
+- Portfolio - https://saurabhnathjha.github.io/portfolio/
 - Email — saurabhnathjha2@gmail.com
